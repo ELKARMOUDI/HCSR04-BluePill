@@ -6,8 +6,6 @@
 - **Precision Distance Measurement**: Measures 2cm–4m range with HC-SR04 ultrasonic sensor.
 - **STM32CubeIDE Project**: Leverages ST’s HAL libraries for GPIO/TIMER configuration.
 - **Real-Time Feedback**: Visual output via LED indicators (e.g., LED toggles at threshold distances).
-- **FreeRTOS Integration** (Optional): Multitasking for sensor polling + display updates.
-- **Low-Power Mode**: Uses STM32 STOP mode to conserve energy (ideal for battery apps).
 
 ## 🔧 Hardware Setup
 ### Components

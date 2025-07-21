@@ -8,7 +8,7 @@ in another project I tried using the same project with an OLED Display:
 
 
 ## Key Features
-- **Precision Distance Measurement**: Measures 2cm–4m range with HC-SR04 ultrasonic sensor.
+- **Precision Distance Measurement**: Measures  range with HC-SR04 ultrasonic sensor.
 - **STM32CubeIDE Project**: Leverages ST’s HAL libraries for GPIO/TIMER configuration.
 - **Real-Time Feedback**: Visual output via LED indicators (e.g., LED toggles at threshold distances).
 
